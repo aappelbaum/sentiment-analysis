@@ -6,6 +6,13 @@ Stanford Data Set
 - Sentiment 140 (bit outdated, but offers other resources as well)
 - http://help.sentiment140.com/for-students
 
+# Python Libraries
+Textblob
+- https://textblob.readthedocs.io/en/dev/
+
+Tweepy 
+- http://www.tweepy.org/
+
 # websites
 Basic example
 - https://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python/
